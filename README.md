@@ -25,20 +25,22 @@ Ce projet est une application web interactive réalisée en **Python** à l'aide
 
 ### Installation des dépendances :
 1. Clonez le dépôt du projet :
+
    ```bash
    git clone <https://github.com/ludivineRB/interactive_application.git>
    cd <interactive_application>
 
 2. Clonez le dépôt du projet :
+
    ```bash
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 ## Lancement de l'Application
 1. Assurez-vous que les dépendances sont installées.
 
 2. Démarrez l'application avec la commande suivante :
    ```bash
-streamlit run streamlit_app.py
+    streamlit run streamlit_app.py
 
 3. Ouvrez l'application dans votre navigateur via le lien fourni par Streamlit (généralement http://localhost:8501).
 
@@ -58,8 +60,8 @@ Si vous souhaitez contribuer :
 
     1. Faites un fork du dépôt.
     2. Créez une branche pour votre fonctionnalité ou correction :
-    ```bash
-    git checkout -b nouvelle-fonctionnalite
+        ```bash
+        git checkout -b nouvelle-fonctionnalite
     3. Proposez une pull request avec vos modifications.
 
 ## Auteurs
