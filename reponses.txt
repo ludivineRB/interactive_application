@@ -1,0 +1,10 @@
+1. Quelle est la limite d'utiliser un fichier plat (comme JSON) dans l'application ? 
+
+-La scalabilité : En créant un fichier json par nouveau thème, il est possible de créer énormément de donnéer. Sachant que certaines fonctionnalité nécessite
+de parcourir la liste de fichier pour trouver le bon, cela peut largement ralentir les processsus. Meme au sein d'un seul et même fichier, si la liste des questions augmente beaucoup, 
+on peut utiliser beaucoup de ressources pour parcourir toutes les questions.
+-Création d'erreur: Si plusieurs utilisateurs créent un fichier avec le même nom, avec des questions différentes, potentiellement on peut avoir des conflits et corrompre les fichiers.
+
+2. Quelle serait la prochaine étape pour scaler l'application ?
+-Utilisation d'une base de données : L'utilisation d'une base de données permet de garantir la sécurité des informations et permettre des requêtes beaucoup plus précises.
+-Mise en cache
