@@ -1,0 +1,20 @@
+[
+   {
+      "question": "Comment on \u00e9crit le mot pigeon",
+      "answers": [
+         "pigulle",
+         "pijon",
+         "pigeon (avec le les mains)"
+      ],
+      "answer_index": "3"
+   },
+   {
+      "question": "Comment on conjugue le verbe \u00eatre 3\u00e8me personne du singulier au pr\u00e9sent?",
+      "answers": [
+         "sois",
+         "est",
+         "\u00e9tions"
+      ],
+      "answer_index": "3"
+   }
+]

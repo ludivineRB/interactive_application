@@ -1,0 +1,29 @@
+[
+   {
+      "question": "Dans quel d\u00e9partement se trouve la ville de Lille?",
+      "answers": [
+         "Aube",
+         "Savoie",
+         "Nord"
+      ],
+      "answer_index": 3
+   },
+   {
+      "question": "Dans quel d\u00e9partement se trouve la ville de Ch\u00e2lons-en-Champagne?",
+      "answers": [
+         "Marne",
+         "Nord",
+         "Champagne"
+      ],
+      "answer_index": 1
+   },
+   {
+      "question": "Dans quel d\u00e9partement se trouve le village dont le nom est le plus long?",
+      "answers": [
+         "Alsace",
+         "Nord",
+         "Marne"
+      ],
+      "answer_index": 3
+   }
+]
