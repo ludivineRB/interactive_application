@@ -1,0 +1,29 @@
+[
+   {
+      "question": "Quel est le nom scientifique d'une poule",
+      "answers": [
+         "Poulus pouli",
+         "T-rexus mini",
+         "Gallus gallus"
+      ],
+      "answer_index": "3"
+   },
+   {
+      "question": "Quelle est la mol\u00e9cule utilis\u00e9e dans la respiration cellulaire?",
+      "answers": [
+         "H20",
+         "H3O+",
+         "O2"
+      ],
+      "answer_index": "3"
+   },
+   {
+      "question": "Quel \u00e9l\u00e9ment est responsable des crampes apr\u00e8s une s\u00e9ance de sport?",
+      "answers": [
+         "L'acide lactique",
+         "La transpiration",
+         "Le CO2"
+      ],
+      "answer_index": "1"
+   }
+]
