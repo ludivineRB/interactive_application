@@ -39,6 +39,7 @@ Ce projet est une application web interactive réalisée en **Python** à l'aide
 1. Assurez-vous que les dépendances sont installées.
 
 2. Démarrez l'application avec la commande suivante :
+
    ```bash
     streamlit run streamlit_app.py
 
@@ -58,11 +59,13 @@ Ce projet est une application web interactive réalisée en **Python** à l'aide
 ## Contribuer au projet
 Si vous souhaitez contribuer :
 
-    1. Faites un fork du dépôt.
-    2. Créez une branche pour votre fonctionnalité ou correction :
-        ```bash
-        git checkout -b nouvelle-fonctionnalite
-    3. Proposez une pull request avec vos modifications.
+1. Faites un fork du dépôt.
+2. Créez une branche pour votre fonctionnalité ou correction :
+
+    ```bash
+    git checkout -b nouvelle-fonctionnalite
+
+3. Proposez une pull request avec vos modifications.
 
 ## Auteurs
 Projet réalisé par ludivineRB avec toute l'équipe de la techIA de Simplon Lille. N'hésitez pas à nous contacter pour toute question ou suggestion !
